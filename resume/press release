@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+
+  <body>
+    <h1 id="top">For Immediate Release</h1>
+
+    <p>
+        General Assembly, which started in New York as a startup incubator, now offers classes and workshops in technology, design, and entrepreneurship, with campuses around the world in:
+    </p>
+
+    Jump to:
+     Additional <br><a href="#campuses">campuses</a>
+    <br> <a href="">locations</a>
+
+    <ul>
+        <li>Berlin</li>
+        <li>Boston</li>
+        <li>Hong Kong</li>
+        <li>London</li>
+        <li>Los Angeles</li>
+        <li>New York City</li>
+        <li>San Francisco</li>
+        <li>Sydney</li>
+        <li>Washington D.C</li>
+    </ul>
+
+    <ul>
+        <li>Berlin</li>
+        <li>Boston</li>
+        <li>Hong Kong</li>
+        <li>London</li>
+        <li>Los Angeles</li>
+        <li>New York City</li>
+        <li>San Francisco</li>
+        <li>Sydney</li>
+        <li>Washington D.C</li>
+    </ul>
+
+<h2 id="campuses">additional campuses</h2>
+    <ul>
+        <li>Berlin</li>
+        <li>Boston</li>
+        <li>Hong Kong</li>
+        <li>London</li>
+        <li>Los Angeles</li>
+        <li>New York City</li>
+        <li>San Francisco</li>
+        <li>Sydney</li>
+        <li>Washington D.C</li>
+    </ul>
+
+
+    For more information, visit General Assembly's <a href="http://generalassemb.ly">website.</a>
+<hr>
+Back to <a href="#top">TOP</a>
+  </body>
+</html>
